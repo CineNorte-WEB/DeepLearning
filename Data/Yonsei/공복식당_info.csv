@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+공복식당,항목 없음,"서울 서대문구
+                연세로12길 23
+                1층 (우)03776","['매일 16:00 ~ 23:00\n\n더보기', '매일 16:00 ~ 23:00', '16:00 ~ 23:00', '설전날', '설당일', '설다음날', '추석전날', '추석당일', '추석다음날', 'Instagram.com/gongbok2011']",3019,3.5점,"[{'category': '맛', 'score': '8'}, {'category': '친절', 'score': '5'}, {'category': '분위기', 'score': '3'}, {'category': '가성비', 'score': '2'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",공복식당_img.png

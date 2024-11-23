@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+정육면체,주차,"서울 서대문구
+                연세로5다길 22-8
+                1층 (우)03789","['매일 11:30 ~ 21:00\n\n더보기', '매일 11:30 ~ 21:00']",657,3.7점,"[{'category': '맛', 'score': '79'}, {'category': '친절', 'score': '38'}, {'category': '분위기', 'score': '37'}, {'category': '가성비', 'score': '26'}, {'category': '주차', 'score': '6'}]",정육면체_img.png
