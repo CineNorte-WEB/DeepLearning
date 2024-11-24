@@ -1,4 +1,0 @@
-name,category,address,hours,review_count,rating,like_points,image_filename
-라구식당,항목 없음,"서울 서대문구
-                연세로 42-24
-                1층 (우)03776","['매일 11:30 ~ 21:00', '월~금 휴게시간 15:00 ~ 17:00\n\n더보기', '매일 11:30 ~ 21:00', '월~금 휴게시간 15:00 ~ 17:00', '토,일 휴게시간 15:00 ~ 16:00']",1347,4.0점,"[{'category': '맛', 'score': '59'}, {'category': '분위기', 'score': '39'}, {'category': '친절', 'score': '20'}, {'category': '가성비', 'score': '16'}, {'category': '주차', 'score': '1'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",라구식당_img.png
