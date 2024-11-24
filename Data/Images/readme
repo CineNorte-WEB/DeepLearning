@@ -1,0 +1,4 @@
+image filename : {가게명}_img.png
+
+- 가게 대표 이미지
+- {가게명}_info.csv 파일에 있는 image filename 속성들과 이름이 동일
