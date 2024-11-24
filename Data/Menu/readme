@@ -1,0 +1,5 @@
+메뉴정보 {가게명}_menu.csv
+
+- menu_name : 메뉴명
+- menu_price : 가격
+- menu_description : 메뉴설명 (없는 경우도 존재)
