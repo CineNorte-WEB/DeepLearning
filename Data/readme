@@ -3,3 +3,6 @@ Kakao map 맛집 크롤링 데이터
 - 리뷰 : {가게명}_reviews.csv
 - 상세정보 : {가게명}_info.csv
 - 메뉴 : {가게명}_menu.csv
+
+- BACKEND 
+  - 백엔드분들은 menu & info csv 파일과 image 파일 다운로드 받으시면 됩니다~!!
