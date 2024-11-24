@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+고냉지,분위기,"서울 서대문구
+                연세로2마길 30
+                 (우)03777","['화~일 10:00 ~ 22:00\n\n더보기', '화~일 10:00 ~ 22:00', '화~일 라스트오더 ~ 21:20', '월요일']",101,4.1점,"[{'category': '맛', 'score': '22'}, {'category': '친절', 'score': '16'}, {'category': '가성비', 'score': '15'}, {'category': '분위기', 'score': '3'}]",고냉지_img.png

@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+비밀,분위기,"서울 서대문구
+                이화여대7길 48
+                경국빌딩 1층 101호 (우)03766","['월~토 08:30 ~ 21:00\n\n더보기', '월~토 08:30 ~ 21:00', '일 09:00 ~ 17:00']",35,4.4점,"[{'category': '맛', 'score': '14'}, {'category': '친절', 'score': '9'}, {'category': '가성비', 'score': '5'}, {'category': '분위기', 'score': '2'}]",대표이미지 없음
