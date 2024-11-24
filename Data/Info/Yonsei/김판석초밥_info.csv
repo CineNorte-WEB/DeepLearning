@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+김판석초밥,항목 없음,"서울 서대문구
+                연세로9길 37
+                1층 102호 (우)03787","['월~토 11:30 ~ 23:00', '월~토 휴게시간 15:00 ~ 17:00\n\n더보기', '월~토 11:30 ~ 23:00', '월~토 휴게시간 15:00 ~ 17:00', '일요일']",34,3.7점,"[{'category': '맛', 'score': '6'}, {'category': '가성비', 'score': '5'}, {'category': '친절', 'score': '3'}, {'category': '분위기', 'score': '3'}, {'category': '주차', 'score': '1'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",김판석초밥_img.png
