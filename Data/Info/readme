@@ -1,0 +1,11 @@
+{가게명}_info.csv : 가게의 상세정보들
+
+About DATA
+- name : 가게명
+- category : 음식점 종류
+- address : 주소
+- hours : 영업시간
+- review_count : 후기 수
+- rating : 별점
+- like_points : 카맵에서 추출한 키워드 ex) 맛, 친절, 분위기 etc..
+- image_filename : 음식점 대표이미지 파일명
