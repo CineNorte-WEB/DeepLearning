@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+분99,항목 없음,"서울 동대문구
+                천장산로4길 36
+                 (우)02405","['매일 11:00 ~ 20:30', '매일 휴게시간 15:30 ~ 16:30\n\n더보기', '매일 11:00 ~ 20:30', '매일 접수마감 ~ 20:00', '매일 휴게시간 15:30 ~ 16:30']",45,4.3점,"[{'category': '맛', 'score': '14'}, {'category': '가성비', 'score': '9'}, {'category': '친절', 'score': '5'}, {'category': '분위기', 'score': '5'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",분99_img.png

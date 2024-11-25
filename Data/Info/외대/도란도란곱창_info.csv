@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+도란도란곱창,항목 없음,"서울 동대문구
+                휘경로2길 5-10
+                 (우)02441","['매일 15:00 ~ 02:00\n\n더보기', '매일 15:00 ~ 02:00']",95,3.3점,"[{'category': '맛', 'score': '7'}, {'category': '가성비', 'score': '6'}, {'category': '친절', 'score': '4'}, {'category': '분위기', 'score': '3'}, {'category': '주차', 'score': '1'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",도란도란곱창_img.png
