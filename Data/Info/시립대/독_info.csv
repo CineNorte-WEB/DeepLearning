@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+독,항목 없음,"서울 동대문구
+                왕산로 278
+                 (우)02554",['매일 16:00 ~ 24:00'],83,3.8점,"[{'category': '맛', 'score': '10'}, {'category': '가성비', 'score': '10'}, {'category': '친절', 'score': '8'}, {'category': '분위기', 'score': '6'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",독_img.png

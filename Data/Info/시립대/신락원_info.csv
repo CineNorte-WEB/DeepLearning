@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+신락원,분위기,"서울 동대문구
+                전농로20길 2
+                1층 (우)02506","['화~토 11:30 ~ 22:00', '화~일 휴게시간 15:00 ~ 17:00\n\n더보기', '화~토 11:30 ~ 22:00', '일 11:30 ~ 21:00', '화~토 라스트오더 ~ 21:20', '일 라스트오더 ~ 20:20', '화~일 휴게시간 15:00 ~ 17:00', '월요일']",82,3.7점,"[{'category': '맛', 'score': '9'}, {'category': '가성비', 'score': '6'}, {'category': '친절', 'score': '5'}, {'category': '분위기', 'score': '2'}]",신락원_img.png

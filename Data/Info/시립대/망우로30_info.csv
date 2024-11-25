@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+망우로30,항목 없음,"서울 동대문구
+                망우로 30-1
+                1층 (우)02494","['월,화,수,목,금,일 09:30 ~ 20:00\n\n더보기', '월,화,수,목,금,일 09:30 ~ 20:00', '토요일', '설전날', '설당일', '추석전날', '추석당일']",179,4.0점,"[{'category': '분위기', 'score': '12'}, {'category': '친절', 'score': '6'}, {'category': '맛', 'score': '5'}, {'category': '주차', 'score': '4'}, {'category': '가성비', 'score': '2'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",망우로30_img.png
