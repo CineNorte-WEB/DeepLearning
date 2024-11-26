@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+푸른하늘,친절,"서울 동대문구
+                경희대로6길 3-4
+                 (우)02453","['일요일\n                                                \n                                            \n더보기', '월~금 10:00 ~ 19:50', '토 10:00 ~ 16:30', '일요일']",60,3.8점,"[{'category': '가성비', 'score': '8'}, {'category': '맛', 'score': '5'}, {'category': '친절', 'score': '1'}]",푸른하늘_img.png

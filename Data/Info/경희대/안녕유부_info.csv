@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+안녕유부,항목 없음,"서울 동대문구
+                경희대로3길 11
+                1층 (우)02454","['매일 10:00 ~ 22:30\n\n더보기', '매일 10:00 ~ 22:30', '10:00 ~ 22:30']",89,4.2점,"[{'category': '맛', 'score': '6'}, {'category': '친절', 'score': '4'}, {'category': '분위기', 'score': '4'}, {'category': '가성비', 'score': '3'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",안녕유부_img.png

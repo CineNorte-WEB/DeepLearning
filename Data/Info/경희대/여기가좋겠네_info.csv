@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+여기가좋겠네,친절,"서울 동대문구
+                회기로21길 25
+                1층 (우)02453","['일 10:30 ~ 22:00\n\n더보기', '월~토 10:30 ~ 24:00', '일 10:30 ~ 22:00']",178,3.4점,"[{'category': '가성비', 'score': '13'}, {'category': '맛', 'score': '12'}, {'category': '분위기', 'score': '4'}, {'category': '친절', 'score': '3'}]",여기가좋겠네_img.png

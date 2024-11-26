@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+회기왕갈비탕,항목 없음,"서울 동대문구
+                이문로 54
+                1층 (우)02443","['매일 11:00 ~ 21:00\n\n더보기', '매일 11:00 ~ 21:00', '매일 라스트오더 ~ 20:30']",267,3.7점,"[{'category': '맛', 'score': '6'}, {'category': '가성비', 'score': '3'}, {'category': '친절', 'score': '1'}, {'category': '분위기', 'score': '1'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",회기왕갈비탕_img.png
