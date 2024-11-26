@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+정각,항목 없음,"서울 마포구
+                백범로20길 28
+                1층 (우)04151","['매일 11:30 ~ 23:00', '매일 휴게시간 15:00 ~ 17:00\n\n더보기', '매일 11:30 ~ 23:00', '매일 라스트오더 ~ 22:00', '매일 휴게시간 15:00 ~ 17:00']",524,3.0점,"[{'category': '분위기', 'score': '9'}, {'category': '맛', 'score': '7'}, {'category': '친절', 'score': '6'}, {'category': '가성비', 'score': '3'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",정각_img.png

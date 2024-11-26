@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+수저가,항목 없음,"서울 마포구
+                광성로4길 10
+                1층 (우)04096","['금,일요일\n                                                \n                                            \n더보기', '월,화,수,목,토 10:30 ~ 20:00', '월,화,수,목,토 휴게시간 15:00 ~ 16:30', '금,일요일']",71,4.5점,"[{'category': '맛', 'score': '48'}, {'category': '가성비', 'score': '48'}, {'category': '친절', 'score': '42'}, {'category': '분위기', 'score': '6'}, {'category': '주차', 'score': '2'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",수저가_img.png

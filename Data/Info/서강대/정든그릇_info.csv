@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+정든그릇,항목 없음,"서울 마포구
+                독막로 239
+                1층 101호 (우)04096","['일요일\n                                                \n                                            \n더보기', '월~토 11:30 ~ 21:00', '월~토 휴게시간 15:00 ~ 17:00', '일요일']",104,4.4점,"[{'category': '맛', 'score': '26'}, {'category': '친절', 'score': '16'}, {'category': '분위기', 'score': '15'}, {'category': '가성비', 'score': '12'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}, {'category': '항목 없음', 'score': '0'}]",정든그릇_img.png

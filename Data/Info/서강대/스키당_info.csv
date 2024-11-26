@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+스키당,주차,"서울 마포구
+                백범로20길 12
+                2층 (우)04149","['일요일\n                                                \n                                            \n더보기', '월~토 11:00 ~ 22:00', '월~토 휴게시간 15:00 ~ 17:00', '일요일', 'app.catchtable.co.kr/ct/shop/sukidang']",1639,4.2점,"[{'category': '맛', 'score': '16'}, {'category': '분위기', 'score': '15'}, {'category': '친절', 'score': '9'}, {'category': '가성비', 'score': '3'}, {'category': '주차', 'score': '1'}]",스키당_img.png

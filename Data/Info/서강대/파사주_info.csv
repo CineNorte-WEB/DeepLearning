@@ -1,0 +1,4 @@
+name,category,address,hours,review_count,rating,like_points,image_filename
+파사주,항목 없음,"서울 마포구
+                백범로20길 24-5
+                상수라이크 1층 (우)04151","['토,일 11:00 ~ 21:00', '토,일 휴게시간 15:00 ~ 16:00\n\n더보기', '월~금 11:30 ~ 22:00', '토,일 11:00 ~ 21:00', '월~금 휴게시간 15:00 ~ 17:00', '토,일 휴게시간 15:00 ~ 16:00', '0507-1367-8995']",181,3.8점,"[{'category': '맛', 'score': '18'}, {'category': '분위기', 'score': '14'}, {'category': '친절', 'score': '9'}, {'category': '가성비', 'score': '2'}, {'category': '항목 없음', 'score': '0'}]",파사주_img.png
