@@ -1,1 +1,3 @@
-6개 대학교 Labeled Data
+Transformed_Reviews_with_Sentiments.csv : OpenAI API 코드로 반환한 결과물
+store_pos_neg.csv : 2nd 모델의 input 형태로 변환한 결과물
+
