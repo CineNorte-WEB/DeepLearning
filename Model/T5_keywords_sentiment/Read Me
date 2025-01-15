@@ -1,6 +1,8 @@
 ## 1st 모델 (키워드 추출 및 긍부정 라벨링)
+- ** 모델 가중치 파일 없음 ** 
 - T5 기반 학습 (pko-t5-base 모델)
 - Kakaomap + NaverPlace reviews 데이터 학습
 - Training Loss = 0.0460 / Validation Loss = 0.0384
+
 
 
