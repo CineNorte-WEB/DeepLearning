@@ -2,6 +2,10 @@
 - OpenAI API 코드로 반환한 결과물
 - 각 리뷰당 추출한 키워드(긍부정 라벨)
 
-### store_pos_neg_keywords.csv 
-- 2nd 모델의 input 형태로 변환한 결과물
+### store_pos_neg_keywords.csv
+- 1st 모델의 output 형태
+- 2nd 모델의 input 형태
 - 각 가게당 긍정적 키워드, 부정적 키워드
+
+## store_analysis_output.csv
+- 2nd 모델의 output 형태
