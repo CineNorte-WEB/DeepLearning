@@ -31,7 +31,7 @@
 
 ### **2-1 레포지토리 클론**
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/CineNorte-WEB/DeepLearning.git
 cd DeepLearning
 ```
 ### **2-2 가상환경 설정 및 종속성 설치**
