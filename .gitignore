@@ -1,0 +1,31 @@
+# Python 캐시 및 컴파일된 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 가상환경
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 운영체제 관련
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# 로그 및 임시 파일
+*.log
+*.bak
+*.swp
+
+# Docker 관련
+*.tar
+*.pid
+
+# 모델 파일
+*.h5
+*.pkl
+*.ckpt
+*.safetensors
+
