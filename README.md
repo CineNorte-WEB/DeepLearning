@@ -91,7 +91,7 @@ docker run -d -p 8000:8000 fastapi-t5-api:v2
 #### **Model 2: 키워드 분류 및 문장 생성**
 
 **Endpoint**
-- URL: `POST /analyze`
+- URL: `POST /analyze`
 - Input:
   ```
   {
@@ -131,3 +131,24 @@ DeepLearning/
 │   │   └── .env
 ├── README.md
 ```
+
+## **5. 모델 성능 평가**
+
+**Model 1**
+- BLEU Score : 0.1316
+- ROUGE Score :
+  - ROUGE-1 : 0.876
+  - ROUGE-2 : 0.822
+  - ROUGE-L : 0.847
+- BERTScore :
+  - Precision : 0.906
+  - Recall : 0.892
+  - F1 : 0.898
+
+**Model 2**
+- Accuracy : 1.0
+- BERTScore :
+  - Precision : 0.775
+  - Recall : 0.785
+  - F1 : 0.780
+- BLEUScore : 0.4034
