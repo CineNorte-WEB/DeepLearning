@@ -29,19 +29,19 @@
 ---
 ## 2. 설치 및 실행
 
-### **1. 레포지토리 클론**
+### **2-1 레포지토리 클론**
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd DeepLearning
 ```
-### **2. 가상환경 설정 및 종속성 설치**
+### **2-2 가상환경 설정 및 종속성 설치**
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### **3. Docker 이미지 빌드 및 실행**
+### **2-3. Docker 이미지 빌드 및 실행**
 
 #### **Model 1**
 ```bash
@@ -60,7 +60,7 @@ docker run -d -p 8000:8000 camslien-2nd-model
 ---
 ## **3. API 사용법**
 
-### **Model 1: 키워드 추출 및 감성 분석**
+#### **Model 1: 키워드 추출 및 감성 분석**
 
 **Endpoint**
 - URL: `POST /generate`
@@ -80,7 +80,7 @@ docker run -d -p 8000:8000 camslien-2nd-model
   }
   ```
   
-### **Model 2: 키워드 분류 및 문장 생성**
+#### **Model 2: 키워드 분류 및 문장 생성**
 
 **Endpoint**
 - URL: `POST /analyze`
