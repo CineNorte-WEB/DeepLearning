@@ -12,7 +12,7 @@
 
 ### **Model 1 : 키워드 추출 및 감성 분석**
 - 리뷰 텍스트를 입력받아 **키워드 추출** 및 **긍/부정 감성 분석** 수행
-- ![image](https://github.com/user-attachments/assets/c72e27ce-e62c-4617-a5d1-6d4bec51b8d3)
+  ![image](https://github.com/user-attachments/assets/c72e27ce-e62c-4617-a5d1-6d4bec51b8d3)
 
 - **학습 모델** : `pko-t5-base` (Hugging Face)
 - **결과** :
@@ -43,18 +43,26 @@ pip install -r requirements.txt
 
 ### **2-3. Docker 이미지 빌드 및 실행**
 
-#### **Model 1**
+**Model 1**
 ```bash
 cd API/t5_api
 docker build -t fastapi-t5-api:v2 .
 docker run -d -p 8000:8000 fastapi-t5-api:v2
 ```
-#### **Model 2**
-```bash
-cd API/camslien_2nd_model
-docker build -t camslien-2nd-model .
-docker run -d -p 8000:8000 camslien-2nd-model
-```
+
+**Model 2**
+1. OpenAI API 키 발급 및 설정 :
+   - OpenAI 계정 생성 후 API 키를 발급받습니다.
+   - 프로젝트 디렉토리 내 `.env` 파일에 다음과 같이 입력합니다.
+     ```bash
+     OPENAI_API_KEY = your_openai_api_key_here
+     ```
+2. Docker 이미지 빌드 및 실행
+  ```bash
+  cd API/camslien_2nd_model
+  docker build -t camslien-2nd-model .
+  docker run -d -p 8000:8000 camslien-2nd-model
+  ```
 
 
 ---
